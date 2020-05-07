@@ -18,7 +18,7 @@ En el escribimos lo siguiente:
     <repositories>
         <repository>
             <id>repo</id>
-            <url>https://minleynetwork.github.io/Spigot/</url>
+            <url>https://divecrafts.github.io/spigot/</url>
         </repository>
     </repositories>
 
@@ -26,8 +26,8 @@ En el escribimos lo siguiente:
     <!-- APIS -->
     <dependencies>
         <dependency>
-            <groupId>es.minley.repo</groupId>
-            <artifactId>repo</artifactId>
+            <groupId>net.divecrafts</groupId>
+            <artifactId>spigot</artifactId>
             <version>1.8.8</version>
         </dependency>
     </dependencies>
